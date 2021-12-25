@@ -1,2 +1,2 @@
 # Scrimba-React-forms-ej-1
-Created with CodeSandbox
+![captura](https://i.imgur.com/YnNMRf6.png)
